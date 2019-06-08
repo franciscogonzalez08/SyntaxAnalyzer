@@ -8,18 +8,18 @@
 <p>- IMPLICATION: -> (two chars)</p>
 <p>- DOUBLE IMPLICATION: <-> (three chars)</p>
   
------------------INSTRUCTIONS-------------------
+## Instructions
   
- HOW DOES IT WORKS?
+ HOW DOES IT WORK?
  1. You'll be asked to type how many propositions you want before 
  the conclusion.
- 2. Type the logic propositions 1 by 1
- (logic propositions MUST be between parentheses)
+ 2. Type the logic propositions, 1 per line
+ (logic propositions that have two operands MUST be inside parentheses)
  3. Finally, type the conclusion
  (MUST be between parentheses)
  <P>PARENTHESES MAY NOT APPEAR ON ATOMIC PROPOSITIONS</P>
  
- --------------------EXAMPLE--------------------
+ ## Example
   <p>Modus Ponens</p>
  <img align="left" src="https://i.imgur.com/tJynqN6.png">
 
